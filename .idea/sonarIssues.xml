@@ -13,12 +13,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/enums/dias-da-semana.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/models/negociacao.ts">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/models/negociacoes.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/views/mensagem-view.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/views/negociacoes-view.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/views/view.ts">
           <value>
             <set />
           </value>
